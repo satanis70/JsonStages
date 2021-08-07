@@ -4,17 +4,38 @@
      "id" : "1",
      "name" : "Зимний дворец",
 	"stages": [ {
+	"nameStages": "1 этап",	
 	"text" : "Зимний дворец (в 1918—1943 годах — Дворец Искусств) — главный императорский дворец России, расположенный по адресу: Санкт-Петербург,  Дворцовая площадь, Дворцовая набережная, 38. Здание дворца (пятое) было построено в 1754—1762 годах русским архитекторомитальянского происхождения Бартоломео Франческо Растрелли в стиле пышного елизаветинского барокко с элементами французского рококо в интерьерах. Начиная с советского времени в стенах дворца размещена основная экспозиция Государственного Эрмитажа.",
     	"audio" : "https://www.wonderplugin.com/wp-content/uploads/2014/03/In-the-Moment-of-Inspiration.mp3",
-     	"image" : "https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg"
+     	"images" : [
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg",
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg",
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg",
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg",
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg"
+	]
 	}, {
+	"nameStages": "2 этап",	
 	"text" : "Зимний дворец (в 1918—1943 годах — Дворец Искусств) — главный императорский дворец России, расположенный по адресу: Санкт-Петербург,  Дворцовая площадь, Дворцовая набережная, 38. Здание дворца (пятое) было построено в 1754—1762 годах русским архитекторомитальянского происхождения Бартоломео Франческо Растрелли в стиле пышного елизаветинского барокко с элементами французского рококо в интерьерах. Начиная с советского времени в стенах дворца размещена основная экспозиция Государственного Эрмитажа.",
     	"audio" : "https://www.wonderplugin.com/wp-content/uploads/2014/03/In-the-Moment-of-Inspiration.mp3",
-     	"image" : "https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg"
+     	"images" : [
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg",
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg",
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg",
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg",
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg"
+	]
 	},{
+	"nameStages": "3 этап",	
 	"text" : "Зимний дворец (в 1918—1943 годах — Дворец Искусств) — главный императорский дворец России, расположенный по адресу: Санкт-Петербург,  Дворцовая площадь, Дворцовая набережная, 38. Здание дворца (пятое) было построено в 1754—1762 годах русским архитекторомитальянского происхождения Бартоломео Франческо Растрелли в стиле пышного елизаветинского барокко с элементами французского рококо в интерьерах. Начиная с советского времени в стенах дворца размещена основная экспозиция Государственного Эрмитажа.",
     	"audio" : "https://www.wonderplugin.com/wp-content/uploads/2014/03/In-the-Moment-of-Inspiration.mp3",
-     	"image" : "https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg"
+     	"images" : [
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg",
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg",
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg",
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg",
+		"https://app.surprizeme.ru/media/store/1186_i1KaYnj_8DuYTzc.jpg"
+	]
 	}
 	]	    
     }
